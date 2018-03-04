@@ -1,0 +1,12 @@
+com\nsmc\domain\cart\CartItemVO.class
+com\nsmc\domain\cart\ShoppingCartVO.class
+com\nsmc\offers\offeradmin\ProductOfferRepository.class
+com\nsmc\offers\offerstrategy\OfferStrategy.class
+com\nsmc\domain\offer\ProductMultiBuyOffer.class
+com\nsmc\domain\offer\OfferApplicable.class
+com\nsmc\domain\offer\ProductOffers.class
+com\nsmc\offers\offerstrategy\BogofOfferStrategy.class
+com\nsmc\domain\offer\CartOffers.class
+com\nsmc\offers\offerstrategy\MultipleQuantityOfProductForAPriceOfferStrategy.class
+com\nsmc\offers\offerstrategy\ThreeForThePriceOfTwoOfferStrategy.class
+com\nsmc\offers\OfferProcessingService.class
